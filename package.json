@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener Service",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just1saket/url-shortener.git"
+  },
+  "keywords": [
+    "url",
+    "shortener"
+  ],
+  "author": "Saket Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just1saket/url-shortener/issues"
+  },
+  "homepage": "https://github.com/just1saket/url-shortener#readme"
+}
